@@ -43,4 +43,3 @@ FROM `departments`;
 SELECT COUNT(`id`)
 FROM `teachers`
 WHERE `phone` IS NULL;
-© 2021 GitHub, Inc.
